@@ -25,7 +25,7 @@
 				"image": "https://images.pexels.com/photos/3762927/pexels-photo-3762927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
 				"alt": "Project 1",
 				"title": "Tech Taley Portfolio",	
-				"desc": "MERN App, fetch data with useEffect, React Hooks",
+				"desc": "MERN App, useState, useEffect, Deploy to GitHub and Host",
 				"link": "https://expansivedesigns.com/tech-taley-portfolio/",
 				"code": "https://github.com/expansivedesigns/tech-taley-portfolio",				
 				"status": "In process",
