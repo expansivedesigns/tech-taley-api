@@ -25,9 +25,9 @@
 				"image": "https://images.pexels.com/photos/3762927/pexels-photo-3762927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
 				"alt": "Project 1",
 				"title": "Tech Taley Portfolio",	
-				"desc": "MERN App | RESTful API GitHub Pages",
+				"desc": "React App | RESTful API in GitHub Pages",
 				"link": "https://expansivedesigns.com/tech-taley-portfolio/",
-				"code": "https://github.com/expansivedesigns/tech-taley-api",				
+				"code": "https://github.com/expansivedesigns/tech-taley-portfolio",				
 				"api": "https://expansivedesigns.github.io/tech-taley-api/data.json",				
 				"status": "In process",
 				"category": "business"								
@@ -37,41 +37,46 @@
 				"image": "https://images.pexels.com/photos/390089/film-movie-motion-picture-390089.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
 				"alt": "Movie Search App",
 				"title": "Movie Search",	
-				"desc": "ReactJS | API Calls | Error Handling",
+				"desc": "React SPA | API Calls",
 				"link": "https://expansivedesigns.github.io/movie_search/",
 				"code": "https://github.com/expansivedesigns/movie_search",
+				"api": "https://github.com/expansivedesigns/movie_search",
 				"status": "Completed",
 				"category": "search"								
 			},
 			{  
 				"id": "2",
-				"image": "https://images.pexels.com/photos/2349209/pexels-photo-2349209.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-				"alt": "Project 1",
-				"title": "Blog",	
-				"desc": "MERN Full Stack with React Hooks | Deployed to Heroku",
-				"link": "https://exdblog.herokuapp.com/",
-				"code": "https://github.com/expansivedesigns/exdblog",				
-				"status": "In process - AWS3 storage, JWT Authentiation",
-				"category": "blog"								
-			},						
-			{  
-				"id": "3",
 				"image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/befound_home.jpg",
 				"title": "Be Found",	
-				"desc": "MERN APP FE Shared Hosting | BE deployed to Heroku",
+				"desc": "React App | BE deployed to Heroku",
 				"link": "https://expansivedesigns.com/projects/befound/",
 				"code": "https://github.com/expansivedesigns/webdata-api",
 				"api": "https://webdata-api.herokuapp.com/",
 				"status": "In process",
 				"category": "business"								
-			},			
+			},
+			{  
+				"id": "3",
+				"image": "https://images.pexels.com/photos/2349209/pexels-photo-2349209.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"alt": "Project 1",
+				"title": "Blog",	
+				"desc": "MERN App with Hooks | Deployed to Heroku",
+				"link": "https://exdblog.herokuapp.com/",
+				"code": "https://github.com/expansivedesigns/exdblog",
+				"api": "https://github.com/expansivedesigns/exdblog/blob/master/server.js",				
+				"status": "In process - AWS3 storage, JWT Authentiation",
+				"category": "blog"								
+			},						
+
 			{  
 				"id": "4",
 				"image": "https://images.pexels.com/photos/1070850/pexels-photo-1070850.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
 				"title": "Cake Selector",	
 				"desc": "Convert to MERN eCommerce App with shopping cart. ",
 				"link": "https://www.expansivedesigns.com",
-				"status": "In process - converstion",
+				"code": "https://www.expansivedesigns.com",
+				"api": "https://www.expansivedesigns.com",				
+				"status": "Planning stage",
 				"category": "search"								
 			},
 			{  
@@ -79,7 +84,9 @@
 				"image": "https://images.pexels.com/photos/212286/pexels-photo-212286.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
 				"title": "Triva Quiz",	
 				"desc": "Logistics JavaScript, Typescript, SaSS, and Rest API.",
-				"link": "https://www.expansivedesigns.com",
+				"link": "https://www.expansivedesigns.com",	
+				"code": "https://www.expansivedesigns.com",
+				"api": "https://www.expansivedesigns.com",				
 				"status": "Planning stage",
 				"category": "game"								
 			},
@@ -89,18 +96,11 @@
 				"title": "Tic Tac Toe",	
 				"desc": "MERN APP",
 				"link": "https://www.expansivedesigns.com",
+				"code": "https://www.expansivedesigns.com",
+				"api": "https://www.expansivedesigns.com",				
 				"status": "Planning stage",
 				"category": "game"								
-			},
-			{  
-				"id": "7",
-				"image": "https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-				"title": "Slideshow API",	
-				"desc": "Use MERN Stack, Web API Services",
-				"link": "https://webdata-api.herokuapp.com/",
-				"status": "In process",
-				"category": "business"								
-			}			
+			}		
 		],
 		"skills": [ 
 			{  
