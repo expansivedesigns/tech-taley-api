@@ -60,11 +60,11 @@
 				"image": "https://images.pexels.com/photos/2349209/pexels-photo-2349209.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
 				"alt": "Project 1",
 				"title": "Blog",	
-				"desc": "MERN App with Hooks deployed to Heroku",
-				"link": "https://expansivedesigns.com/projects/exdblog/",
+				"desc": "Deployed MERN App with Hooks, AWS3 Cloud Storage",
+				"link": "https://exdblog.herokuapp.com/",
 				"code": "https://github.com/expansivedesigns/exdblog",
 				"api": "https://github.com/expansivedesigns/exdblog/blob/master/server.js",				
-				"status": "AWS3 Upload, JWT, Build and Deploy to shared Hosting ",
+				"status": "Ongoing improvements.",
 				"category": "blog"								
 			},						
 
