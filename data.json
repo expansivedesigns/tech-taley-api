@@ -19,11 +19,23 @@
 				"link": "https://www.expansivedesigns.com/tech-taley-portfolio/#projects"				
 			}					
 		],
-		"projects": [ 
+		"projects": [
 			{  
 				"id": "0",
+				"image": "https://images.pexels.com/photos/2349209/pexels-photo-2349209.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"alt": "Full stack Mern Deployment",
+				"title": "Blog",	
+				"desc": "Deployed MERN App, Hooks, AWS3, Multer3",
+				"link": "https://exdblog.herokuapp.com/",
+				"code": "https://github.com/expansivedesigns/exdblog",
+				"api": "https://github.com/expansivedesigns/exdblog/blob/master/server.js",				
+				"status": "Ongoing improvements.",
+				"category": "blog"								
+			},
+			{  
+				"id": "1",
 				"image": "https://images.pexels.com/photos/3762927/pexels-photo-3762927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-				"alt": "Project 1",
+				"alt": "FE React Deployment",
 				"title": "Tech Taley Portfolio",	
 				"desc": "React App | REST API deployed to GitHub Pages",
 				"link": "https://expansivedesigns.com/tech-taley-portfolio/",
@@ -31,9 +43,9 @@
 				"api": "https://expansivedesigns.github.io/tech-taley-api/data.json",				
 				"status": "In process",
 				"category": "business"								
-			},
+			},							 
 			{  
-				"id": "1",
+				"id": "2",
 				"image": "https://images.pexels.com/photos/390089/film-movie-motion-picture-390089.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
 				"alt": "Movie Search App",
 				"title": "Movie Search",	
@@ -54,53 +66,7 @@
 				"api": "https://webdata-api.herokuapp.com/",
 				"status": "In process",
 				"category": "business"								
-			},
-			{  
-				"id": "3",
-				"image": "https://images.pexels.com/photos/2349209/pexels-photo-2349209.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-				"alt": "Project 1",
-				"title": "Blog",	
-				"desc": "Deployed MERN App with Hooks, AWS3 Cloud Storage",
-				"link": "https://exdblog.herokuapp.com/",
-				"code": "https://github.com/expansivedesigns/exdblog",
-				"api": "https://github.com/expansivedesigns/exdblog/blob/master/server.js",				
-				"status": "Ongoing improvements.",
-				"category": "blog"								
-			},						
-
-			{  
-				"id": "4",
-				"image": "https://images.pexels.com/photos/1070850/pexels-photo-1070850.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-				"title": "Cake Selector",	
-				"desc": "Convert website to MERN App. ",
-				"link": "https://www.expansivedesigns.com",
-				"code": "https://www.expansivedesigns.com",
-				"api": "https://www.expansivedesigns.com",				
-				"status": "Planning stage",
-				"category": "search"								
-			},
-			{  
-				"id": "5",
-				"image": "https://images.pexels.com/photos/212286/pexels-photo-212286.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-				"title": "Triva Quiz",	
-				"desc": "Logistics JavaScript, Typescript, SaSS, and Rest API.",
-				"link": "https://www.expansivedesigns.com",	
-				"code": "https://www.expansivedesigns.com",
-				"api": "https://www.expansivedesigns.com",				
-				"status": "Planning stage",
-				"category": "game"								
-			},
-			{  
-				"id": "6",
-				"image": "https://images.pexels.com/photos/220053/pexels-photo-220053.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-				"title": "Tic Tac Toe",	
-				"desc": "MERN APP",
-				"link": "https://www.expansivedesigns.com",
-				"code": "https://www.expansivedesigns.com",
-				"api": "https://www.expansivedesigns.com",				
-				"status": "Planning stage",
-				"category": "game"								
-			}		
+			}					
 		],
 		"skills": [ 
 			{  
