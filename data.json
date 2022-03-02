@@ -1,0 +1,155 @@
+{
+	"results": {   
+		"id": 0,  
+		"menus": [
+			{
+				"intro": "intro", 
+				"skills": "skills", 
+				"projects": "projects",
+				"contact": "contact"
+			}									
+		],
+		"banner": [  
+			{
+				"image": "https://images.pexels.com/photos/3762927/pexels-photo-3762927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+				"alt": "Web Portfolio",
+				"title": "I'm Taley",
+				"role": "Full stack web developer",
+				"desc": "10+ years experience", 
+				"link": "https://www.expansivedesigns.com/tech-taley-portfolio/#projects"				
+			}					
+		],
+		"projects": [
+			{  
+				"id": "0",
+				"image": "https://images.pexels.com/photos/2349209/pexels-photo-2349209.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"alt": "Full stack Mern Deployment",
+				"title": "Blog",	
+				"desc": "Deployed MERN App, Hooks, AWS3, Multer3",
+				"link": "https://exdblog.herokuapp.com/",
+				"code": "https://github.com/expansivedesigns/exdblog",
+				"api": "https://github.com/expansivedesigns/exdblog/blob/master/server.js",				
+				"status": "Ongoing improvements.",
+				"category": "blog"								
+			},
+			{  
+				"id": "1",
+				"image": "https://images.pexels.com/photos/3762927/pexels-photo-3762927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+				"alt": "FE React Deployment",
+				"title": "Tech Taley Portfolio",	
+				"desc": "React App | REST API deployed to GitHub Pages",
+				"link": "https://expansivedesigns.com/tech-taley-portfolio/",
+				"code": "https://github.com/expansivedesigns/tech-taley-portfolio",				
+				"api": "https://expansivedesigns.github.io/tech-taley-api/data.json",				
+				"status": "In process",
+				"category": "business"								
+			},							 
+			{  
+				"id": "2",
+				"image": "https://images.pexels.com/photos/390089/film-movie-motion-picture-390089.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"alt": "Movie Search App",
+				"title": "Movie Search",	
+				"desc": "React App | external REST API",
+				"link": "https://expansivedesigns.github.io/movie_search/",
+				"code": "https://github.com/expansivedesigns/movie_search",
+				"api": "https://github.com/expansivedesigns/movie_search",
+				"status": "Completed",
+				"category": "search"								
+			},
+			{  
+				"id": "3",
+				"image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/befound_home.jpg",
+				"title": "Be Found",	
+				"desc": "React App | REST API deployed to Heroku",
+				"link": "https://expansivedesigns.com/projects/befound/",
+				"code": "https://github.com/expansivedesigns/webdata-api",
+				"api": "https://webdata-api.herokuapp.com/",
+				"status": "In process",
+				"category": "business"								
+			}					
+		],
+		"skills": [ 
+			{  
+				"id": "0",
+				"title": "MongoDB, ExpressJS, React, NodeJS",	
+				"desc": "Full Stack Web Apps with engaging FE and BE web services"		
+			},
+			{  
+				"id": "1",
+				"title": "Web API Services, API calls, CRUD Operations",	
+				"desc": "Handle communications between front and backend."		
+			},
+			{  
+				"id": "2",
+				"title": "Error Handling using Try/Catch",	
+				"desc": "Prevent validation issues, password hashing."		
+			},
+			{  
+				"id": "3",
+				"title": "Asynchronous JavaScript using Async/Await",	
+				"desc": "Executes code inline code while delivering a promise."
+			},
+			{  
+				"id": "4",
+				"title": "Javascript (ES6), JQuery, TypeScript",	
+				"desc": "Basic Frontend Programming and JS extentions and frameworks."
+			},
+			{  
+				"id": "5",
+				"title": "websites",	
+				"skills": "HTML5, CSS3, FlexBox, TypeScript, SASS "
+			}			
+		],		
+		"skills_other": [ 
+			{  
+				"id": "0",
+				"title": "MongoDB, ExpressJS, React, NodeJS",	
+				"desc": "Full Stack Web Apps with engaging FE and BE web services"		
+			},
+			{  
+				"id": "1",
+				"title": "Web API Services, API calls, CRUD Operations",	
+				"desc": "Handle communications between front and backend."		
+			},
+			{  
+				"id": "2",
+				"title": "Error Handling using Try/Catch",	
+				"desc": "Prevent validation issues, password hashing."		
+			},
+			{  
+				"id": "3",
+				"title": "Asynchronous JavaScript using Async/Await",	
+				"desc": "Executes code inline code while delivering a promise."
+			},
+			{  
+				"id": "4",
+				"title": "Javascript (ES6), JQuery, TypeScript",	
+				"desc": "Basic Frontend Programming and JS extentions and frameworks."
+			},
+			{  
+				"id": "5",
+				"title": "HTML, CSS, SASS, FlexBox, TypeScript",	
+				"desc": "Website structure and styling."
+			}			
+		],		
+		"footer1": [
+			{
+				"image": "https://cdn.pixabay.com/photo/2014/04/03/10/38/trinity-310931_1280.png",
+				"alt": "Footer logo for portfolio",
+				"title": "Tech Taley",
+				"social": [ 
+					{  
+						"link1": "https://www.facebook.com/expansivedesigns/?ref=hl",
+						"link2": "https://www.instagram.com/expansivedesigns/",
+						"link3": "https://twitter.com/expansivedesign",
+						"link4":  "YouTube Channel - T3 - Taily Talks Tech"  
+					}										
+				]				
+			}
+		]
+	}
+}
+	
+  
+
+

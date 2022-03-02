@@ -1,0 +1,11 @@
+node_modules/
+sendEmail.js
+Procfile
+
+.env
+sendEmail.js
+
+client/src/components/Projects_disable.js
+client/src/components/Skills_disabled.js
+data.inprogress.json
+.env
