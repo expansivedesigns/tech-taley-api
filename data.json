@@ -29,7 +29,7 @@
 				"link": "https://exdblog.herokuapp.com/",
 				"code": "https://github.com/expansivedesigns/exdblog",
 				"api": "https://github.com/expansivedesigns/exdblog/blob/master/server.js",				
-				"status": "Ongoing improvements.",
+				"status": "Ongoing.",
 				"category": "blog"								
 			},
 			{  
@@ -41,7 +41,7 @@
 				"link": "https://www.expansivedesigns.com/tech-taley-portfolio/",
 				"code": "https://github.com/expansivedesigns/tech-taley-portfolio",				
 				"api": "https://expansivedesigns.github.io/tech-taley-api/data.json",				
-				"status": "In process",
+				"status": "Completed",
 				"category": "business"								
 			},							 
 			{  
@@ -64,18 +64,18 @@
 				"link": "https://expansivedesigns.com/projects/befound/",
 				"code": "https://github.com/expansivedesigns/befound",
 				"api": "https://webdata-api.herokuapp.com/",
-				"status": "In process",
+				"status": "Ongoing",
 				"category": "business"								
 			},
 			{  
 				"id": "4",
 				"image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/trivia quiz.jpg",
 				"title": "Trivia Quiz",	
-				"desc": "React SPA | Built using React, ExpressJs, and TypeeScript",
+				"desc": "React SPA |Hooks, Express Server, and TypeeScript",
 				"link": "#",
 				"code": "https://github.com/Techtaley/react-trivia.git",
 				"api": "#",
-				"status": "useState Hooks,ReactJs, ExpressJS",
+				"status": "Ongoing",
 				"category": "game"								
 			}			
 
